@@ -21,5 +21,13 @@ public class Operations {
 
         System.out.println(sum1);
         System.out.println(sum2);
+
+        System.out.println("--------");
+        String s1 = "Hello World!";
+        System.out.println(s1);
+        System.out.println(s1.length());
+        System.out.println(s1.charAt(4));
+        System.out.println(s1.substring(6, 9));
+
     }
 }
