@@ -11,6 +11,5 @@ public class ScannerTest {
         String word = scanner.nextLine();
 
         System.out.println("Вы ввели: " + word);
-
     }
 }
