@@ -14,7 +14,7 @@ public class ArrayMethodsTest {
         int[] numbers = Arrays.copyOf(source, 5);
         System.out.println(Arrays.toString(numbers));
 
-        int[] numbers1 = Arrays.copyOfRange(source, 4, 8);
+        int[] numbers1 = Arrays.copyOfRange(source, 8, 11);
         System.out.println(Arrays.toString(numbers1));
 
         Arrays.sort(source);
