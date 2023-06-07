@@ -18,7 +18,7 @@ public class Task2 {
 //        arr[1] + arr[3] = 5 + 1 = 6.
 
         int[] array = {1, 5, 3, 3, 2, 7, 4, 1, 3, 2};
-        System.out.println(getNumberOfPairs(array, 6));
+        System.out.println(getNumberOfPairs(array, 100));
     }
 
     public static int getNumberOfPairs(int[] array, int sum) {
